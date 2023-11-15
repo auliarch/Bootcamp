@@ -1,0 +1,4 @@
+M001|Aulia Rachman|19|Citeureup|Cimahi|2023-08-25/23:11:56|2023-08-25/23:11:56
+M002|Faisal Luqmanul Hakim|19|Lembur Sawah|Cimahi|2023-08-25/23:14:58|2023-08-25/23:14:58
+M003|Nanda Restu Nailani|18|Rancabali|Cimahi|2023-08-25/23:15:17|2023-08-25/23:19:40
+M004|Rifa Nurwulan|18|Pangauban|Bandung|2023-08-26/07:34:11|2023-08-26/07:34:11

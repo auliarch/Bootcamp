@@ -1,0 +1,6 @@
+P002|BK004|non-member|Dandi|23|1|2023-08-26|2023-08-26|Selesai|1000
+P003|BK002|M003|Nanda Restu Nailani|18|1|2023-08-26|2023-08-26|Selesai|0
+P004|BK001|non-member|Farhan|17|1|2023-08-23|2023-08-26|Selesai|3000
+P005|BK002|M001|Aulia Rachman|19|1|2023-08-22|-|Dipinjam|0
+P006|BK003|M001|Aulia Rachman|19|1|2023-08-26|-|Dipinjam|0
+P007|BK004|non-member|Naruto|17|1|2023-08-26|-|Dipinjam|0
